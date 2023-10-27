@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBestYoutube</string>
+    <string name="title_activity_add_youtubeVideo">AddYoutubeVideoActivity</string>
+    <string-array name="array_options">
+        <item>Sport</item>
+        <item>Musique</item>
+        <item>Comedie</item>
+        <item>Cuisine</item>
+    </string-array>
+</resources>
